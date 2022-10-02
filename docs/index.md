@@ -2,4 +2,4 @@ The GitHub repository for this page is [here](https://github.com/kendallalevy/Mo
 
 The corresponding web page is [here](https://kendallalevy.github.io/ModifiedUnityMechanic/index.html)
 
-The WebGL build of the simple Unity project is [here](https://kendallalevy.github.io/ModifiedUnityMechanic/docs/WebGLBuild/index.html)
+The WebGL build of the simple Unity project is [here](https://kendallalevy.github.io/ModifiedUnityMechanic/docs/WebGLBuild/)
